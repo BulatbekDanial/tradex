@@ -3,7 +3,7 @@
 **Learn investing by defending real decisions.**
 
 Live demo: https://tradex-teal.vercel.app
-Pitch deck: https://claude.ai/artifact/CZXCJzLzsPDU8iqNxBCRJq
+Pitch deck: https://drive.google.com/file/d/18o4Usvc--3XXQ4UpTJcsHxOUs0cpeY8G/view?usp=sharing
 
 TradeX is a case-based investing simulator for high-school students. Each case is a fictional client with a goal, a deadline and limits. The student builds a portfolio for that client, writes an investment thesis and defends it before an AI board of directors. The score rewards reasoning, not luck: 40 of 100 points come from calculated portfolio metrics (risk, diversification, fit with the client's goal), 60 from the quality of the argument.
 
